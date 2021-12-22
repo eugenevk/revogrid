@@ -1,4 +1,4 @@
-# base
+# revogrid / VueJS
 
 ## Project setup
 ```
