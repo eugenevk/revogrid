@@ -1,4 +1,5 @@
 # revogrid / VueJS
+Test repo to reproduce issue of revogrid not being displayed in a VueJS 3 project.
 
 ## Project setup
 ```
